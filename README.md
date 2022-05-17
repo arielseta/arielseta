@@ -7,5 +7,6 @@
 [![Hotmail Badge](https://img.shields.io/badge/-arielseta@hotmail.com-BB001B?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:arielseta@hotmail.com)](mailto:arielseta@hotmail.com)  
 
 Analista de Sistemas
+
 Laravel, PHP, C++, Java, Delphi, Clipper 5.2, Postgre, MySQL, MySQL Workbench e FireBird.
 Trabalhando atualmente com C++, Laravel, MySQL e Firebird, ferramenta Embarcadero® C++Builder 10.4 e Visual Studio.

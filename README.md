@@ -10,4 +10,4 @@ Analista de Sistemas
 
 Laravel, PHP, C++, Java, Delphi, Clipper 5.2, Postgre, MySQL, MySQL Workbench e FireBird.
 
-Trabalhando atualmente com C++, Laravel, MySQL e Firebird 4, ferramentas Embarcadero® C++Builder 10.4 e Visual Studio.
+Trabalhando atualmente com C++, Laravel, MySQL e Firebird 4, ferramentas Embarcadero® C++Builder 11.3 e Visual Studio.

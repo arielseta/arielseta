@@ -8,6 +8,6 @@
 
 Analista de Sistemas
 
-Laravel, PHP, C++, Java, Delphi, Clipper 5.2, Postgre, MySQL, MySQL Workbench e FireBird.
+Desenvolvedor Full Stack com conhecimentos em: Laravel, PHP, C++, Java, Delphi, Clipper 5.2, PostgreSQL, MySQL, MySQL Workbench e FireBird.
 
 Trabalhando atualmente com C++, Laravel, MySQL e Firebird 4, ferramentas Embarcadero® C++Builder 11.3 e Visual Studio.

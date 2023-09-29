@@ -6,8 +6,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-arielseta-E1306C?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/arielseta/)](https://www.instagram.com/arielseta/)
 [![Hotmail Badge](https://img.shields.io/badge/-arielseta@hotmail.com-BB001B?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:arielseta@hotmail.com)](mailto:arielseta@hotmail.com)  
 
-Analista de Sistemas
+Analista de Sistemas/Desenvolvedor Full Stack 
 
-Desenvolvedor Full Stack com conhecimentos em: Laravel, PHP, C++, Java, Delphi, Clipper 5.2, PostgreSQL, MySQL, MySQL Workbench e FireBird.
+Conhecimentos em: Laravel, PHP, C++, Java, Delphi, Clipper 5.2, PostgreSQL, MySQL, MySQL Workbench e FireBird.
 
 Trabalhando atualmente com C++, Laravel, MySQL e Firebird 4, ferramentas Embarcadero® C++Builder 11.3 e Visual Studio.

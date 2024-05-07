@@ -7,5 +7,7 @@
 [![Hotmail Badge](https://img.shields.io/badge/-arielseta@hotmail.com-BB001B?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:arielseta@hotmail.com)](mailto:arielseta@hotmail.com)  
 
 Formado em Engenharia de Computação, profissional com mais de 25 anos de experiência em diversos setores de TI.
+
 Trabalhando atualmente com C++, Laravel, MySQL e Firebird 4, ferramentas Embarcadero® C++Builder 11.3 e Visual Studio.
+
 Conhecimentos em: C++, Laravel, PHP, Java, Delphi, Clipper 5.2, PostgreSQL, MySQL, Firebird, MySQL Workbench e IBExpert.

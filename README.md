@@ -15,4 +15,5 @@ Conhecimentos em: C++, Laravel, PHP, Java, Delphi, Clipper 5.2, PostgreSQL, MySQ
 
 # Publicações
 
-* Protótipo de Plataforma de Fluxo para Auxílio aos Estudantes do Curso de Engenharia de Computação da UNIVESP - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12727128.svg?style=flat-square&link=https://doi.org/10.5281/zenodo.12727128)](https://doi.org/10.5281/zenodo.12724235)
+* Protótipo de Plataforma de Fluxo para Auxílio aos Estudantes do Curso de Engenharia de Computação da UNIVESP
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12727128.svg?style=flat-square&link=https://doi.org/10.5281/zenodo.12727128)](https://doi.org/10.5281/zenodo.12724235)

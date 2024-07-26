@@ -11,7 +11,7 @@ Formado em Engenharia de Computação, profissional com mais de 25 anos de exper
 
 Trabalhando atualmente com C++, Laravel, MySQL e Firebird 4, ferramentas Embarcadero® C++Builder 11.3 e Visual Studio.
 
-Conhecimentos em: C++, Laravel, PHP, Phyton, Android, Java, Delphi, Clipper 5.2, PostgreSQL, MySQL, Firebird, MySQL Workbench e IBExpert.
+Conhecimentos em: C++, Laravel, PHP, Python, Android, Java, Delphi, Clipper 5.2, PostgreSQL, MySQL, Firebird, MySQL Workbench e IBExpert.
 
 # Publicações
 

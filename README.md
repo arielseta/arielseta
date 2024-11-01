@@ -21,5 +21,23 @@ Estou sempre em busca de novos desafios e conhecimentos para aplicar e expandir 
 
 # Publicações
 
-* Protótipo de Plataforma de Fluxo para Auxílio aos Estudantes do Curso de Engenharia de Computação da UNIVESP
-  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12727128.svg?style=flat-square&link=https://doi.org/10.5281/zenodo.12727128)](https://doi.org/10.5281/zenodo.12724235)
+* Protótipo de Plataforma de Fluxo para Auxílio aos Estudantes do Curso de Engenharia de Computação da UNIVESP  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12727128.svg?style=flat-square&link=https://doi.org/10.5281/zenodo.12727128)](https://doi.org/10.5281/zenodo.12724235)
+
+* Sistema de Controle Financeiro  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12727733.svg?style=flat-square&link=https://doi.org/10.5281/zenodo.12727733)](https://doi.org/10.5281/zenodo.12727733)
+
+* Proposta De Aplicativo Para Conscientização Do Descarte Correto Do Lixo Eletrônico Nos Espaços Públicos  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12761524.svg?style=flat-square&link=https://doi.org/10.5281/zenodo.12761524)](https://doi.org/10.5281/zenodo.12761524)
+
+* Iot No Gerenciamento Dos Doadores Do Banco De Sangue  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12762199.svg?style=flat-square&link=https://doi.org/10.5281/zenodo.12762199)](https://doi.org/10.5281/zenodo.12762199)
+
+* Aplicativo de Apoio Pedagógico aos Alunos de Engenharia de Computação da UNIVESP  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12761906.svg?style=flat-square&link=https://doi.org/10.5281/zenodo.12761906)](https://doi.org/10.5281/zenodo.12761906)
+
+* Aplicativo Para Controle, Mapeamento E Apoio Aos Infectados Com Dengue  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12762327.svg?style=flat-square&link=https://doi.org/10.5281/zenodo.12762327)](https://doi.org/10.5281/zenodo.12762327)
+
+* Software De Apoio A Coleta De Óleo Vegetal Residual  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12762034.svg?style=flat-square&link=https://doi.org/10.5281/zenodo.12762034)](https://doi.org/10.5281/zenodo.12762034)

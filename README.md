@@ -7,11 +7,13 @@
 [![Hotmail Badge](https://img.shields.io/badge/Hotmail-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:arielseta@hotmail.com)](mailto:arielseta@hotmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=flat-square&logo=todoist&logoColor=white)](https://arielseta.github.io/)
 
+Desenvolvedor Full Stack Sênior | Graduado em Eng. de Computação | Pós-Graduado em Desenvolvimento Full Stack | SQL/PSQL | C++ | Laravel | Vue.js | Python | MySQL | Firebird
+
 Sou um profissional apaixonado por tecnologia desde a adolescência, quando comecei a explorar e aprender sobre montagem e manutenção de computadores, além de instalação e reconfiguração de sistemas operacionais como DOS e Windows. Aos 17 anos, iniciei minha jornada na programação com Clipper 5.2 e banco de dados dBase.
 
 Ao longo dos anos, adquiri experiência em diversos setores, atuando como auxiliar de escritório, balconista, estoquista, gerente e proprietário de uma distribuidora de bebidas.
 
-Minha carreira na área de tecnologia ganhou impulso quando entrei em uma empresa de desenvolvimento de software como suporte técnico e rapidamente evoluí para programador. Aprendi a programar em C++ e a trabalhar com banco de dados Firebird, utilizando ferramentas como Embarcadero RAD Studio e IBExpert. Com a mudança de gestão, fui promovido a analista de sistemas, cargo que ocupo até hoje.
+Minha carreira na área de tecnologia ganhou impulso quando entrei em uma empresa de desenvolvimento de software como suporte técnico e rapidamente evoluí para programador. Aprendi a programar em C++ e a trabalhar com banco de dados Firebird, utilizando ferramentas como Embarcadero RAD Studio e IBExpert. Com a mudança de gestão, fui promovido a analista de desenvolvimento de sistemas, cargo que ocupo até hoje.
 
 Atualmente, gerencio projetos de forma independente, utilizando tecnologias como C++, Laravel, Vue.js, React, Android, Firebird e MySQL. Sou formado em Engenharia de Computação, Pós-Graduado em Desenvolvimento Full Stack e continuo a expandir meus conhecimentos com cursos em diversas áreas, incluindo SQL/PSQL, Marchening Learning e Python.
 

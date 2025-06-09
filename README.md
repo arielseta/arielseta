@@ -13,7 +13,7 @@ Ao longo dos anos, adquiri experiência em diversos setores, atuando como auxili
 
 Minha carreira na área de tecnologia ganhou impulso quando entrei em uma empresa de desenvolvimento de software como suporte técnico e rapidamente evoluí para programador. Aprendi a programar em C++ e a trabalhar com banco de dados Firebird, utilizando ferramentas como Embarcadero RAD Studio e IBExpert. Com a mudança de gestão, fui promovido a analista de sistemas, cargo que ocupo até hoje.
 
-Atualmente, gerencio projetos de forma independente, utilizando tecnologias como Laravel, Node.js, PHP, Android e MySQL. Sou formado em Engenharia de Computação e continuo a expandir meus conhecimentos com cursos em diversas áreas, incluindo SQL/PSQL, Vue.js e Python.
+Atualmente, gerencio projetos de forma independente, utilizando tecnologias como C++, Laravel, Vue.js, React, Android, Firebird e MySQL. Sou formado em Engenharia de Computação, Pós-Graduado em Desenvolvimento Full Stack e continuo a expandir meus conhecimentos com cursos em diversas áreas, incluindo SQL/PSQL, Marchening Learning e Python.
 
 Tenho experiência prática e conhecimento em diversas linguagens de programação e ferramentas, incluindo C++, Laravel, PHP, Python, Android, Java, Delphi, Clipper 5.2, PostgreSQL, MySQL, Firebird, MySQL Workbench e IBExpert. No meu dia a dia, utilizo as ferramentas Embarcadero C++Builder 11.3 e VSCode para desenvolver soluções inovadoras e eficientes.
 

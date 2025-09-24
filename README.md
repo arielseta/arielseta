@@ -7,7 +7,7 @@
 [![Hotmail Badge](https://img.shields.io/badge/Hotmail-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:arielseta@hotmail.com)](mailto:arielseta@hotmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=flat-square&logo=todoist&logoColor=white)](https://arielseta.github.io/)
 
-Desenvolvedor Full Stack Sênior | Graduado em Eng. de Computação | Pós-Graduado em Desenvolvimento Full Stack | SQL/PSQL | C++ | Laravel | Vue.js | Python | MySQL | Firebird
+Desenvolvedor Full Stack Sênior | Pós-Graduado em Desenvolvimento Full Stack | Graduado em Eng. de Computação | C++ | Laravel | Vue.js | Python | MySQL | Firebird | SQL/PSQL
 
 Sou um profissional apaixonado por tecnologia desde a adolescência, quando comecei a explorar e aprender sobre montagem e manutenção de computadores, além de instalação e reconfiguração de sistemas operacionais como DOS e Windows. Aos 17 anos, iniciei minha jornada na programação com Clipper 5.2 e banco de dados dBase.
 

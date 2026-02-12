@@ -7,19 +7,19 @@
 [![Hotmail Badge](https://img.shields.io/badge/Hotmail-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:arielseta@hotmail.com)](mailto:arielseta@hotmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=flat-square&logo=todoist&logoColor=white)](https://arielseta.github.io/)
 
-Desenvolvedor Full Stack Sênior | Pós-Graduado em Desenvolvimento Full Stack | Graduado em Eng. de Computação | C++ | Laravel | Vue.js | Python | MySQL | Firebird | SQL/PSQL
+Desenvolvedor Full Stack Sênior | Pós-Graduado em Desenvolvimento Full Stack | MBA em Gestão de Projetos | Graduado em Eng. de Computação | Formação Pedagógica em Matemática | C++ | Delphi | Laravel | Vue.js | React | Python | MySQL | Firebird | SQL/PSQL
 
-Sou um profissional apaixonado por tecnologia desde a adolescência, quando comecei a explorar e aprender sobre montagem e manutenção de computadores, além de instalação e reconfiguração de sistemas operacionais como DOS e Windows. Aos 17 anos, iniciei minha jornada na programação com Clipper 5.2 e banco de dados dBase.
+Sou Desenvolvedor Full Stack Sênior, graduado em Engenharia de Computação, Pós-graduado em Desenvolvimento Web Full Stack, com MBA em Gestão de Projetos e Formação Pedagógica em Matemática. Possuo mais de 10 anos de experiência no desenvolvimento de sistemas comerciais de alta complexidade, com forte atuação no setor de postos de combustíveis.
 
-Ao longo dos anos, adquiri experiência em diversos setores, atuando como auxiliar de escritório, balconista, estoquista, gerente e proprietário de uma distribuidora de bebidas.
+Atuo desde a análise até a implementação de soluções completas, utilizando tecnologias como C++, PHP, Python, Laravel, Vue.js, React e Android, além de ampla experiência em bancos de dados relacionais (Firebird, MySQL e PostgreSQL – SQL/PSQL). Meu foco está na construção de sistemas robustos, eficientes e escaláveis.
 
-Minha carreira na área de tecnologia ganhou impulso quando entrei em uma empresa de desenvolvimento de software como suporte técnico e rapidamente evoluí para programador. Aprendi a programar em C++ e a trabalhar com banco de dados Firebird, utilizando ferramentas como Embarcadero RAD Studio e IBExpert. Com a mudança de gestão, fui promovido a analista de desenvolvimento de sistemas, cargo que ocupo até hoje.
+Além da base técnica, possuo perfil híbrido, combinando desenvolvimento, liderança técnica e gestão de projetos, aplicando boas práticas para garantir qualidade, performance e entrega de valor aos negócios.
 
-Atualmente, gerencio projetos de forma independente, utilizando tecnologias como C++, Laravel, Vue.js, React, Android, Firebird e MySQL. Sou formado em Engenharia de Computação, Pós-Graduado em Desenvolvimento Full Stack e continuo a expandir meus conhecimentos com cursos em diversas áreas, incluindo SQL/PSQL, Marchening Learning e Python.
+Também mantenho evolução contínua em Ciência de Dados e Machine Learning, áreas que complementam minha visão estratégica e ampliam minha capacidade de desenvolver soluções orientadas a dados.
 
-Tenho experiência prática e conhecimento em diversas linguagens de programação e ferramentas, incluindo C++, Laravel, PHP, Python, Android, Java, Delphi, Clipper 5.2, PostgreSQL, MySQL, Firebird, MySQL Workbench e IBExpert. No meu dia a dia, utilizo as ferramentas Embarcadero C++Builder 11.3 e VSCode para desenvolver soluções inovadoras e eficientes.
+Tenho ainda publicações acadêmicas nas áreas de IoT, saúde, educação e tecnologia aplicada, refletindo meu compromisso com inovação, aprendizado contínuo e geração de impacto real.
 
-Estou sempre em busca de novos desafios e conhecimentos para aplicar e expandir minhas habilidades, contribuindo para o sucesso das organizações com as quais colaboro.
+Estou sempre aberto a novos desafios, conexões e oportunidades que envolvam tecnologia, inovação e projetos estratégicos.
 
 # Publicações
 

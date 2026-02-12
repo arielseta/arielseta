@@ -7,11 +7,11 @@
 [![Hotmail Badge](https://img.shields.io/badge/Hotmail-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:arielseta@hotmail.com)](mailto:arielseta@hotmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=flat-square&logo=todoist&logoColor=white)](https://arielseta.github.io/)
 
-Desenvolvedor Full Stack Sênior | Pós-Graduado em Desenvolvimento Full Stack | MBA em Gestão de Projetos | Graduado em Eng. de Computação | Formação Pedagógica em Matemática | C++ | Delphi | Laravel | Vue.js | React | Python | MySQL | Firebird | SQL/PSQL
+Desenvolvedor Full Stack Sênior | Graduado em Eng. de Computação | Pós-Graduado em Desenvolvimento Full Stack | MBA em Gestão de Projetos | Formação Pedagógica em Matemática | C++ | Delphi | Laravel | Vue.js | React | Python | MySQL | Firebird | SQL/PSQL
 
 Sou Desenvolvedor Full Stack Sênior, graduado em Engenharia de Computação, Pós-graduado em Desenvolvimento Web Full Stack, com MBA em Gestão de Projetos e Formação Pedagógica em Matemática. Possuo mais de 10 anos de experiência no desenvolvimento de sistemas comerciais de alta complexidade, com forte atuação no setor de postos de combustíveis.
 
-Atuo desde a análise até a implementação de soluções completas, utilizando tecnologias como C++, PHP, Python, Laravel, Vue.js, React e Android, além de ampla experiência em bancos de dados relacionais (Firebird, MySQL e PostgreSQL – SQL/PSQL). Meu foco está na construção de sistemas robustos, eficientes e escaláveis.
+Atuo desde a análise até a implementação de soluções completas, utilizando tecnologias como C++, Delphi, PHP, Python, Laravel, Vue.js, React e Android, além de ampla experiência em bancos de dados relacionais (Firebird, MySQL e PostgreSQL – SQL/PSQL). Meu foco está na construção de sistemas robustos, eficientes e escaláveis.
 
 Além da base técnica, possuo perfil híbrido, combinando desenvolvimento, liderança técnica e gestão de projetos, aplicando boas práticas para garantir qualidade, performance e entrega de valor aos negócios.
 

@@ -10,6 +10,7 @@
 Desenvolvedor Full Stack Sênior | Pós-Graduado em Desenvolvimento Full Stack | MBA em Gestão de Projetos | Graduado em Eng. de Computação | Licenciado em Matemática | C++ | Delphi | Laravel | Vue.js | React | Python | MySQL | Firebird | SQL/PSQL
 
 Sou Desenvolvedor Full Stack Sênior, graduado em Engenharia de Computação, Pós-graduado em Desenvolvimento Web Full Stack, com MBA em Gestão de Projetos e Licenciatura em Matemática. Possuo mais de 10 anos de experiência no desenvolvimento de sistemas comerciais de alta complexidade.
+
 Atualmente atuo como Programador Sênior na Mercosistem Sistemas ERP e Consultoria, desenvolvendo soluções para ambientes comerciais e industriais, com foco em tecnologias como Delphi, Firebird e RAD Studio, lidando com sistemas críticos e de alta relevância para o negócio.
 
 Tenho uma trajetória consolidada também como analista e desenvolvedor full stack, com experiência em tecnologias como C++, PHP, Python, Laravel, Vue.js, React e Android, além de bancos de dados relacionais (Firebird, MySQL e PostgreSQL – SQL/PSQL).
